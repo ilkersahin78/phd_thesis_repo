@@ -1,2 +1,2 @@
 # phd_thesis_repo
-Simulation files and supplementary material for PhD thesis
+Simulation Files, Codes, and Supplementary Material for the PhD Thesis
